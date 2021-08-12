@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/KoyoAli/git-test.git"
   },
-  "author": "Ali Ahmad",
+  "author": "Ali Ahmad", 
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KoyoAli/git-test/issues"
